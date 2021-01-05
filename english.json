@@ -1,0 +1,75 @@
+{
+    "btp_mod_title" : "Better Teammate Panel",
+    "btp_mod_desc" : "Change mod options",
+
+    "btp_language" : "Language",
+    "btp_language_desc" : "Changes mod language. To take effect, a level restart is required.",
+    "btp_language_1" : "Autodetect",
+
+    "btp_compatibility" : "HUD Compatibility",
+    "btp_compatibility_desc" : "Here you can select a compatibility with certain HUD you are using\nApplying wrong HUD compatibility may cause your game to crash\n\n[Autodetect: BTP will try to detect installed HUD]\n[Any other option: Forces BTP to load compatibility code for that HUD]",
+    "btp_compatibility_1" : "Autodetect",
+    "btp_compatibility_2" : "Vanilla",
+
+    "btp_r" : "Red",
+    "btp_g" : "Green",
+    "btp_b" : "Blue",
+    "btp_reset_color" : "Reset Color",
+    "btp_ok" : "Ok",
+
+    "btp_panel_style" : "Panel Style",
+    "btp_panel_style_desc" : "Sets panel style",
+    "btp_panel_style_1" : "Default",
+    "btp_panel_style_2" : "Steam Avatar",
+    "btp_panel_style_3" : "Heister Avatar",
+
+    "btp_panel_style_position" : "Panel Position",
+    "btp_panel_style_position_desc" : "Sets panel position",
+    "btp_panel_style_position_1" : "Replace Health Bar",
+    "btp_panel_style_position_2" : "Left",
+    "btp_panel_style_position_3" : "Top",
+
+    "btp_steam_avatar_compatibility" : "Improve compatibility with Steam Avatar",
+    "btp_steam_avatar_compatibility_desc" : "If BTP can't load your Steam Avatar and shows '?' sign, enable this option.",
+
+    "btp_show_real_ammo" : "Show Real Ammo",
+    "btp_show_real_ammo_desc" : "Shows your ammo count in normal fashion as Magazine/Total Magazine",
+
+    "btp_show_down_counter" : "Show Down Counter",
+    "btp_show_down_counter_desc" : "Shows down counter.\n\nFor you, the counter starts from max and counts down whenever you get downed.\nFor teammates, the counter starts from zero and counts up whenever they get downed.",
+
+    "btp_show_stamina_counter" : "Show Stamina Counter",
+    "btp_show_stamina_counter_desc" : "Shows your remaining stamina. (only you)",
+
+    "btp_colorful_health_radial" : "Colorful Health Radial",
+    "btp_colorful_health_radial_desc" : "",
+
+    "btp_armor_color" : "Armor Color",
+    "btp_armor_color_desc" : "Sets armor color\n\nRainbow:\n100%-75% => Green\n75%-50% => Blue\n50%-25% => Orange\n25%-0% => Red",
+    "btp_armor_color_1" : "Default",
+    "btp_armor_color_2" : "Red",
+    "btp_armor_color_3" : "Green",
+    "btp_armor_color_4" : "Light Green",
+    "btp_armor_color_5" : "Blue",
+    "btp_armor_color_6" : "Orange",
+    "btp_armor_color_7" : "Black",
+    "btp_armor_color_8" : "Gray",
+    "btp_armor_color_9" : "Pink",
+    "btp_armor_color_10" : "Violet",
+    "btp_armor_color_11" : "Yellow",
+    "btp_armor_color_12" : "Rainbow",
+
+    "btp_radial_rip_color" : "Ex-President's Radial Color",
+    "btp_radial_rip_color_desc" : "Sets Ex-President's Radial color\n\nRainbow:\n100%-75% => Green\n75%-50% => Blue\n50%-25% => Orange\n25%-0% => Red",
+
+    "btp_stoic_health" : "Stoic Health Color",
+    "btp_stoic_health_desc" : "Sets Stoic's Health Color",
+
+    "btp_friendly_panel" : "Family Friendly Names and Avatars",
+    "btp_friendly_panel_desc" : "Sets every panel to friendly name and avatar (except you)",
+
+    "btp_sydneyhud_stamina_bar_position" : "Stamina Bar Position",
+    "btp_sydneyhud_stamina_bar_position_desc" : "Sets Stamina Bar Position",
+    "btp_sydneyhud_stamina_bar_position_1" : "Use Steam/Heister Avatar as Stamina Bar",
+    "btp_sydneyhud_stamina_bar_position_2" : "In Custom Panel"
+}

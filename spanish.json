@@ -1,0 +1,45 @@
+{
+    "btp_mod_title" : "Better Teammate Panel",
+    "btp_mod_desc" : "Cambia las opciones del mod",
+
+    "btp_language" : "Idioma",
+    "btp_language_desc" : "Cambia el idioma del mod. Para que surta efecto, se requiere un reinicio de nivel.",
+    "btp_language_1" : "Detectar Automáticamente",
+
+    "btp_compatibility" : "Compatibilidad de HUD",
+    "btp_compatibility_desc" : "Aquí puedes seleccionar una compatibilidad con cierto HUD que estés utilizando\nAplicar una compatibilidad de HUD erronea puede hacer que tu juego colapse\n\n[Detectar Automáticamente: BTP intentará detectar el HUD instalado]\n[Cualquier otra opción: Forzará a BTP a cargar el código de compatibilidad para ese HUD]",
+    "btp_compatibility_1" : "Detectar Automáticamente",
+    "btp_compatibility_2" : "Predeterminado",
+
+    "btp_panel_style" : "Estilo del Panel",
+    "btp_panel_style_desc" : "Establece el Estilo del Panel",
+    "btp_panel_style_1" : "Ninguno",
+    "btp_panel_style_2" : "Imagen de Perfil de Steam",
+    "btp_panel_style_3" : "Imagen del Personaje en Uso",
+
+    "btp_steam_avatar_compatibility" : "Mejora la compatibilidad con la Imagen de Perfil de Steam",
+    "btp_steam_avatar_compatibility_desc" : "Si BTP no puede cargar tú Imagen de Perfil de Steam y muestra el signo '?', habilita esta opción.",
+
+    "btp_show_real_ammo" : "Mostrar Munición Real",
+    "btp_show_real_ammo_desc" : "Muestra tu capacidad de munición de manera normal cómo Cargador / Tamaño Total del Cargador",
+
+    "btp_colorful_health_radial" : "Colorida Salud",
+    "btp_colorful_health_radial_desc" : " · · · ",
+
+    "btp_armor_color" : "Color de Armadura",
+    "btp_armor_color_desc" : "Cambia el Color de la Armadura\n\nModo Dinámico:\nDe 100% a 75% es Verde\nDe 74% a 50% es Azul\nDe 49% a 25% es Naranja\nDe 24% a 0% es Rojo",
+    "btp_armor_color_1" : "Predeterminado",
+    "btp_armor_color_2" : "Rojo",
+    "btp_armor_color_3" : "Verde",
+    "btp_armor_color_5" : "Azul",
+    "btp_armor_color_6" : "Naranja",
+    "btp_armor_color_7" : "Negro",
+    "btp_armor_color_8" : "Gris",
+    "btp_armor_color_9" : "Rosa",
+    "btp_armor_color_10" : "Violeta",
+    "btp_armor_color_11" : "Amarillo",
+    "btp_armor_color_12" : "Modo Dinámico",
+
+    "btp_friendly_panel" : "Nombres y Avatares más Amigables",
+    "btp_friendly_panel_desc" : "Establece cada panel (excepto el tuyo) a un Nombre y Avatar más Amigable"
+}
