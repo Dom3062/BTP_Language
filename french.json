@@ -1,0 +1,75 @@
+{
+    "btp_mod_title" : "Meilleur panneau de coéquipier",
+    "btp_mod_desc" : "Changer les options du mod",
+
+    "btp_language" : "Langage",
+    "btp_language_desc" : "Change le langage du mod. Pour être appliqués, un redémarrage de niveau est nécessaire.",
+    "btp_language_1" : "Auto-détecter",
+
+    "btp_compatibility" : "Compatibilité de l’ATH",
+    "btp_compatibility_desc" : "Ici, vous pouvez sélectionner la compatibilité avec certains d’autre ATH que vous utilisez pour éviter que votre jeu plante.\n\n[Auto-détecter : MPC esayera de détecter l’ATH installé]\n[Autres options : Force MPC de charger le mode de compatibilité pour l’ATH choisi.]",
+    "btp_compatibility_1" : "Auto-détecter",
+    "btp_compatibility_2" : "Par défaut",
+
+    "btp_r" : "Rouge",
+    "btp_g" : "Vert",
+    "btp_b" : "Bleu",
+    "btp_reset_color" : "Réinitialiser les couleurs",
+    "btp_ok" : "Ok",
+
+    "btp_panel_style" : "Style de panneau",
+    "btp_panel_style_desc" : "Configure le style du panneau",
+    "btp_panel_style_1" : "Défaut",
+    "btp_panel_style_2" : "Avatar Steam",
+    "btp_panel_style_3" : "Avatar du braqueur",
+
+    "btp_panel_style_position" : "Position du panneau",
+    "btp_panel_style_position_desc" : "Choisit la position du panneau",
+    "btp_panel_style_position_1" : "Remplacer la barre de santé",
+    "btp_panel_style_position_2" : "Gauche",
+    "btp_panel_style_position_3" : "Au-dessus",
+
+    "btp_steam_avatar_compatibility" : "Améliore la compatibilité avec l’avatar Steam",
+    "btp_steam_avatar_compatibility_desc" : "Si MPC n’arrive pas à charger votre avatar Steam et montre un signe '?' activez cette option.",
+
+    "btp_show_real_ammo" : "Montre les munitions réelles",
+    "btp_show_real_ammo_desc" : "Montre les munitions restantes de façon classique à la place nombre de balles restantes dans le chargeur/chargeurs restants",
+
+    "btp_show_down_counter" : "Montre le compteur mise à terre",
+    "btp_show_down_counter_desc" : "Montre le compteur mise à terre.\n\nPour vous, le compteur commencera au maximum et décomptera dès que vous serez mis à terre.\nPour les coéquipiers, le compteur commencera à zéro et comptera à chaque fois qu'ils seront mis à terre.",
+
+    "btp_show_stamina_counter" : "Montre le compteur d’endurance",
+    "btp_show_stamina_counter_desc" : "Montre votre endurance restante. (seulement vous)",
+
+    "btp_colorful_health_radial" : "Arc de santé colorée",
+    "btp_colorful_health_radial_desc" : "",
+
+    "btp_armor_color" : "Couleur de l’armure",
+    "btp_armor_color_desc" : "Configure la couleur d’armure\n\nArc-en-ciel:\n100%-75% => Vert\n75%-50% => Bleu\n50%-25% => Orange\n25%-0% => Rouge",
+    "btp_armor_color_1" : "Défaut",
+    "btp_armor_color_2" : "Rouge",
+    "btp_armor_color_3" : "Vert",
+    "btp_armor_color_4" : "Vert clair",
+    "btp_armor_color_5" : "Bleu",
+    "btp_armor_color_6" : "Orange",
+    "btp_armor_color_7" : "Noir",
+    "btp_armor_color_8" : "Gris",
+    "btp_armor_color_9" : "Rose",
+    "btp_armor_color_10" : "Violet",
+    "btp_armor_color_11" : "Jaune",
+    "btp_armor_color_12" : "Arc-en ciel",
+
+    "btp_radial_rip_color" : "Couleur radiale d’Ex-président",
+    "btp_radial_rip_color_desc" : "Configure la couleur radiale d’Ex-président\n\nArc-en-ciel:\n100%-75% => Vert\n75%-50% => Bleu\n50%-25% => Orange\n25%-0% => Rouge",
+
+    "btp_stoic_health" : "Couleur de santé de stoïque",
+    "btp_stoic_health_desc" : "Configure la couleur de stoïque",
+
+    "btp_friendly_panel" : "Noms et avatar sans obscénités",
+    "btp_friendly_panel_desc" : "Configure chaque panneau à retirer les obscénités pour les noms et avatars (À l’exception de vous)",
+
+    "btp_sydneyhud_stamina_bar_position" : "Position de la barre d’endurance",
+    "btp_sydneyhud_stamina_bar_position_desc" : "Configure la position de la barre d’endurance",
+    "btp_sydneyhud_stamina_bar_position_1" : "Utilise l’avatar Steam/ de Braqueur en tant que barre d’endurance",
+    "btp_sydneyhud_stamina_bar_position_2" : "Dans un panneau personnalisé"
+}
