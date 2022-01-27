@@ -11,11 +11,23 @@
     "btp_compatibility_1" : "Detectar Automáticamente",
     "btp_compatibility_2" : "Predeterminado",
 
+    "btp_r" : "Rojo",
+    "btp_g" : "Verde",
+    "btp_b" : "Azul",
+    "btp_reset_color" : "Restablecer Color",
+    "btp_ok" : "Aceptar",
+
     "btp_panel_style" : "Estilo del Panel",
     "btp_panel_style_desc" : "Establece el Estilo del Panel",
     "btp_panel_style_1" : "Ninguno",
     "btp_panel_style_2" : "Imagen de Perfil de Steam",
     "btp_panel_style_3" : "Imagen del Personaje en Uso",
+
+    "btp_panel_style_position" : "Posición del Panel",
+    "btp_panel_style_position_desc" : "Establece la Posición del Panel",
+    "btp_panel_style_position_1" : "Reemplazar la Barra de Salud",
+    "btp_panel_style_position_2" : "Izquierda",
+    "btp_panel_style_position_3" : "Parte Superior",
 
     "btp_steam_avatar_compatibility" : "Mejora la compatibilidad con la Imagen de Perfil de Steam",
     "btp_steam_avatar_compatibility_desc" : "Si BTP no puede cargar tú Imagen de Perfil de Steam y muestra el signo '?', habilita esta opción.",
@@ -23,14 +35,21 @@
     "btp_show_real_ammo" : "Mostrar Munición Real",
     "btp_show_real_ammo_desc" : "Muestra tu capacidad de munición de manera normal cómo Cargador / Tamaño Total del Cargador",
 
-    "btp_colorful_health_radial" : "Colorida Salud",
-    "btp_colorful_health_radial_desc" : " · · · ",
+    "btp_show_stamina_counter" : "Mostrar Resistencia",
+    "btp_show_stamina_counter_desc" : "Muestra tu Resistencia restante. (sólo tu)",
 
-    "btp_armor_color" : "Color de Armadura",
+    "btp_stamina_counter_color" : "Color de la Resistencia",
+    "btp_stamina_counter_color_desc" : "Cuando está habilitado, la Resistencia mostrará un color según la cantidad de Resistencia que te queda.\nCuando está deshabilitado, la Resistencia se mostrará en color blanco.",
+
+    "btp_colorful_health_radial" : "Colorida Salud",
+    "btp_colorful_health_radial_desc" : "Cambia el Color de la Salud",
+
+    "btp_armor_color" : "Color de la Armadura",
     "btp_armor_color_desc" : "Cambia el Color de la Armadura\n\nModo Dinámico:\nDe 100% a 75% es Verde\nDe 74% a 50% es Azul\nDe 49% a 25% es Naranja\nDe 24% a 0% es Rojo",
     "btp_armor_color_1" : "Predeterminado",
     "btp_armor_color_2" : "Rojo",
     "btp_armor_color_3" : "Verde",
+    "btp_armor_color_4" : "Verde Claro",
     "btp_armor_color_5" : "Azul",
     "btp_armor_color_6" : "Naranja",
     "btp_armor_color_7" : "Negro",
@@ -40,6 +59,17 @@
     "btp_armor_color_11" : "Amarillo",
     "btp_armor_color_12" : "Modo Dinámico",
 
+    "btp_radial_rip_color" : "Color del Talento (Ex-Presidente)",
+    "btp_radial_rip_color_desc" : "Cambia el Color de la Salud Acumulada al usar el Talento (Ex-Presidente)\n\nModo Dinámico:\nDe 100% a 75% es Verde\nDe 74% a 50% es Azul\nDe 49% a 25% es Naranja\nDe 24% a 0% es Rojo",
+
+    "btp_stoic_health" : "Color del Talento (Estoico)",
+    "btp_stoic_health_desc" : "Cambia el Color de la Salud al usar el Talento (Estoico)",
+
     "btp_friendly_panel" : "Nombres y Avatares más Amigables",
-    "btp_friendly_panel_desc" : "Establece cada panel (excepto el tuyo) a un Nombre y Avatar más Amigable"
+    "btp_friendly_panel_desc" : "Establece cada panel (excepto el tuyo) a un Nombre y Avatar más Amigable",
+
+    "btp_sydneyhud_stamina_bar_position" : "Posición de la Barra de Resistencia",
+    "btp_sydneyhud_stamina_bar_position_desc" : "Establece la Posición de la Barra de Resistencia",
+    "btp_sydneyhud_stamina_bar_position_1" : "Usar tu Avatar como Barra de Resistencia",
+    "btp_sydneyhud_stamina_bar_position_2" : "Usar Panel Personalizado"
 }

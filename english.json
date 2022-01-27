@@ -11,6 +11,9 @@
     "btp_compatibility_1" : "Autodetect",
     "btp_compatibility_2" : "Vanilla",
 
+    "btp_compatibility_detected" : "Detected HUD: ",
+    "btp_compatibility_forced" : "Forced HUD: ",
+
     "btp_r" : "Red",
     "btp_g" : "Green",
     "btp_b" : "Blue",
@@ -35,14 +38,35 @@
     "btp_show_real_ammo" : "Show Real Ammo",
     "btp_show_real_ammo_desc" : "Shows your ammo count in normal fashion as Magazine/Total Magazine",
 
-    "btp_show_down_counter" : "Show Down Counter",
-    "btp_show_down_counter_desc" : "Shows down counter.\n\nFor you, the counter starts from max and counts down whenever you get downed.\nFor teammates, the counter starts from zero and counts up whenever they get downed.",
-
     "btp_show_stamina_counter" : "Show Stamina Counter",
     "btp_show_stamina_counter_desc" : "Shows your remaining stamina. (only you)",
 
+    "btp_stamina_counter_color" : "Stamina Counter Color",
+    "btp_stamina_counter_color_desc" : "When enabled, stamina counter will show a color depending on how much stamina you have left\nWhen disabled, stamina counter will show white color",
+
+    "btp_show_ping_counter" : "Show Ping Counter",
+    "btp_show_ping_counter_desc" : "Shows ping to other players.",
+
+    "btp_ping_counter_update_rate" : "Ping Counter Update Rate",
+    "btp_ping_counter_update_rate_desc" : "Sets a value in seconds how often ping should update.",
+
+    "btp_ping_counter_color" : "Ping Counter Color",
+    "btp_ping_counter_color_desc" : "When enabled, ping counter will show a color depending on your ping between you and other players\nWhen disabled, ping counter will show white color",
+    "btp_ping_counter_color_custom" : "Custom Ping Counter Color",
+
     "btp_colorful_health_radial" : "Colorful Health Radial",
     "btp_colorful_health_radial_desc" : "",
+    
+    "btp_ping_0_100" : "Ping 0 - 100",
+    "btp_ping_0_100_desc" : "Sets ping color if the ping is between 0 and 100 ms",
+    "btp_ping_100_200" : "Ping 100 - 200",
+    "btp_ping_100_200_desc" : "Sets ping color if the ping is between 100 and 200 ms",
+    "btp_ping_200_300" : "Ping 200 - 300",
+    "btp_ping_200_300_desc" : "Sets ping color if the ping is between 200 and 300 ms",
+    "btp_ping_300_400" : "Ping 300 - 400",
+    "btp_ping_300_400_desc" : "Sets ping color if the ping is between 300 and 400 ms",
+    "btp_ping_400+" : "Ping 400+",
+    "btp_ping_400+_desc" : "Sets ping color if the ping is above 400 ms",
 
     "btp_armor_color" : "Armor Color",
     "btp_armor_color_desc" : "Sets armor color\n\nRainbow:\n100%-75% => Green\n75%-50% => Blue\n50%-25% => Orange\n25%-0% => Red",

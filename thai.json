@@ -1,0 +1,78 @@
+{
+    "btp_mod_title": "หน้าต่างแทนตัวเองและเพื่อนร่วมทีมที่เจ๋งกว่าเดิม",
+    "btp_mod_desc": "Better Teammate Panel: BTP เปลี่ยนตัวเลือกของ mod",
+
+    "btp_language": "ภาษา",
+    "btp_language_desc": "เปลี่ยนภาษาของม็อด.\nจำเป็นต้องมีการรีสตาร์ทด่านเพื่อให้การเปลี่ยนแปลงนี้ส่งผลลัพธ์",
+    "btp_language_1": "ค้นพบภาษาอัตโนมัติ",
+
+    "btp_compatibility": "ความเข้ากันได้ของ HUD",
+    "btp_compatibility_desc": "คุณสามารถปรับแต่งความเข้ากันได้กับ HUD ที่คุณกำลังใช้อยู่\nเกมสามารถเด้งหลุดได้หากคุณเลือกความเข้ากันได้กับ HUD ผิดประเภท\n\n[ตรวจสอบอัตโนมัติ: BTP จะพยายามตรวจสอบ HUD ที่ติดตั้งไว้]\n[ตัวเลือกอื่นๆ: บังคับให้ BTP เลือกใช้ตัวเลือกที่เข้ากันได้ HUD นั้นๆ]",
+    "btp_compatibility_1": "ตรวจสอบอัตโนมัติ",
+    "btp_compatibility_2": "เกมต้นฉบับ",
+
+    "btp_compatibility_detected": "ค้นพบ HUD: ",
+    "btp_compatibility_forced": "บังคับใช้ HUD: ",
+
+    "btp_r": "แดง",
+    "btp_g": "เขียว",
+    "btp_b": "น้ำเงิน",
+    "btp_reset_color": "รีเซ็ตสี",
+    "btp_ok": "โอเค",
+
+    "btp_panel_style": "รูปแบบหน้าต่างแทนตัวเองและเพื่อน",
+    "btp_panel_style_desc": "เลือกรูปแบบหน้าต่างแทนตัวเองและเพื่อนร่วมทีม",
+    "btp_panel_style_1": "เกมต้นฉบับ",
+    "btp_panel_style_2": "รูปแทนตัวเองจากสตีม",
+    "btp_panel_style_3": "รูปแทนสมาชิกของแก๊ง",
+
+    "btp_panel_style_position": "ตำแหน่งหน้าต่างแทนตัวเองและเพื่อน",
+    "btp_panel_style_position_desc": "เลือกตำแหน่งหน้าต่างแทนตัวเองและเพื่อนร่วมทีม",
+    "btp_panel_style_position_1": "วางหน้าต่างแสดงพลังชีวิต",
+    "btp_panel_style_position_2": "ซ้าย",
+    "btp_panel_style_position_3": "บนสุด",
+
+    "btp_steam_avatar_compatibility": "เพิ่มความเข้ากันได้กับรูปแทนตัวเองจากสตีม",
+    "btp_steam_avatar_compatibility_desc": "หาก BTP ไม่สามารถแสดงรูปแทนตัวเองจากสตีมและขึ้นเครื่องหมาย '?' ให้ทำการเลือกตัวเลือกนี้",
+
+    "btp_show_real_ammo": "แสดงค่าที่แท้จริงของจำนวนกระสุนที่มี",
+    "btp_show_real_ammo_desc": "แสดงค่าทจำนวนกระสุนในรูปแบบนิยมทั่วไป คือ จำนวนกระสุนในรังเพลิง/จำนวนกระสุนทั้งหมดในซองกระสุนที่มี",
+
+    "btp_show_stamina_counter": "แสดงค่าความอึด",
+    "btp_show_stamina_counter_desc": "แสดงค่าความอึดที่เหลือ (เฉพาะคุณเท่านั้น)",
+
+    "btp_stamina_counter_color": "สีค่าความอึด",
+    "btp_stamina_counter_color_desc": "เมื่อเลือกตัวเลือกนี้ ค่าความอึดจะแสดงสีที่แตกต่างกันตามเปอร์เซนต์ที่เหลืออยู่\nเมื่อไม่ใช้ตัวเลือกนี้ สีแสดงค่าความอึดจะแสดงเป็นสีขาว",
+    
+    "btp_colorful_health_radial": "Colorful Health Radial",
+    "btp_colorful_health_radial_desc": "",
+    
+    "btp_armor_color": "สีค่าเกราะ",
+    "btp_armor_color_desc": "เลือกสีแสดงค่าเกราะ\n\nสีรุ้ง:\n100%-75% => เชียว\n75%-50% => น้ำเงิน\n50%-25% => ส้ม\n25%-0% => แดง",
+    "btp_armor_color_1": "ค่าดั้งเดิม",
+    "btp_armor_color_2": "แดง",
+    "btp_armor_color_3": "เขียว",
+    "btp_armor_color_4": "เขียวอ่อน",
+    "btp_armor_color_5": "น้ำเงิน",
+    "btp_armor_color_6": "ส้ม",
+    "btp_armor_color_7": "ดำ",
+    "btp_armor_color_8": "เทา",
+    "btp_armor_color_9": "ชมพู",
+    "btp_armor_color_10": "ม่วง",
+    "btp_armor_color_11": "เหลือง",
+    "btp_armor_color_12": "สีรุ้ง",
+    
+    "btp_radial_rip_color": "แสดงสีสำหรับ Ex-President",
+    "btp_radial_rip_color_desc": "เลือกสีสำหรับ Ex-President\n\nสีรุ้ง:\n100%-75% => เชียว\n75%-50% => น้ำเงิน\n50%-25% => ส้ม\n25%-0% => แดง",
+    
+    "btp_stoic_health": "แสดงสีสำหรับ Stoic",
+    "btp_stoic_health_desc": "เลือกสีพลังชีวิตสำหรับ Stoic",
+    
+    "btp_friendly_panel": "แทนรูปด้วยรูปจาก Family Friendly",
+    "btp_friendly_panel_desc": "กำหนดรูปแทนตัวเพื่อนร่วมทีมด้วย Family Friendly (ยกเว้นรูปแทนตัวคุณ)",
+    
+    "btp_sydneyhud_stamina_bar_position": "ตำแหน่งค่าความอึด",
+    "btp_sydneyhud_stamina_bar_position_desc": "เลือกตำแหน่งค่าความอึด",
+    "btp_sydneyhud_stamina_bar_position_1": "ใช้รูปแทนตัวเองจากสตีม/สมาชิกของแก๊งแทนรูปแสดงค่าความอืด",
+    "btp_sydneyhud_stamina_bar_position_2": "รูปแสดงจำนวนล้มและรูปแสดงค่าความอึด"
+}
